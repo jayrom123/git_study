@@ -1,4 +1,4 @@
 module.exports = {
-    name: 'roger',
-    version: 'test',
-}
+	name: 'rogers',
+	version: 'test',
+};
